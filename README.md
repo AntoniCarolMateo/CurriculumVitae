@@ -20,7 +20,21 @@ Backend developer, Frontend developer, code developer
 Studying GTIDIC, Grau en Técniques d'Interacció digital i Computació.
 Working on my own projects in order to grow in expirience and knowledge.
 
-### Specialized in
+---
+## Education
+- Technological bachelorship - Batxillerato Tecológico
+  - 2017-2019 Institut Pere Vives Vich, 08700 Igualada(Barcelona)
+  
+- GTIDIC, Degree in Digital Interaction Tecniques and Computation.
+  - Universitat de LLeida, Campus Igualada, 08700 Igualada(Barcelona)
+
+## Job's world
+- Warehouse Logistic managment - 5 months duration
+ - Stegotronix, C/França 20, Igualada(Barcelona)
+ - September 2019 --> February 2020
+ ---
+
+### Abilities
 
 - Database management.
   - **Languages used** : Python, MySql
@@ -32,13 +46,6 @@ Working on my own projects in order to grow in expirience and knowledge.
 ### Research interests
 
 >Really interested in  the videogame sector, android developement, and database treatement
-
-## Education
-
-`1654-1660`
-__The King's School, Grantham.__
-
-- Sizar
 
 ## My work
 
