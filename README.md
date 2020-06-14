@@ -61,10 +61,6 @@ __START APP, GTIDIC__    *https://github.com/AntoniCarolMateo/START_APP_GTIDIC*
 
 Project that integrated 3 univeristy subjects, the goal of the project was build and application to solve a problem, have a an Software Enginering documentation and treatement, and also apply this study case as if we were trying to create an START APP.
 Projects were done in a group of 4 integrants. 
-**My part on the project** : 
-        >Programmer, leaded by @imlmendez
-        >Participated in all documents, on charge of documents structure
-        >Requierements research, analysis, evolution and management. 
 
 ----
 - **Design of movile applications**, : learned about android more importants aspects.
@@ -77,6 +73,12 @@ Projects were done in a group of 4 integrants.
 - **Software Engineering** : worked on the software documentation from the app.
   - Learned requiriement search, analisis, and treatement. Market domain, TAM SAM SOM. Sprints documentation.
 --------  
+
+- **My part on the project** : 
+  - Programmer, leaded by @imlmendez.
+  -  Participated in all documents, on charge of documents structure.
+  - Requierements research, analysis, evolution and management. 
+
   
  >If you want to understant more about the project and his stucture, I'll leave you a link to the oficial Universitat of Lleida documentatio, :   https://jordimateoudl.github.io/slides/reveal.js/index.html#/
   
@@ -85,9 +87,6 @@ Urband is an android application used as a Match for musicians, musicians can fi
     
    - Android Repository : https://github.com/AntoniCarolMateo/urbandapp
    - Backend with Python and Mysql Repository : https://github.com/AntoniCarolMateo/DamApi
-
-## Occupation
-
 
 <!-- ### Footer
 
