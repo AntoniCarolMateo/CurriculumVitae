@@ -54,14 +54,19 @@ Projects were done in a group of 4 integrants.
         >Programmer, leaded by @imlmendez
         >Participated in all documents, on charge of documents structure
         >Requierements research, analysis, evolution and management. 
-</div>
 
+----
 - **Android**, *Desarrollament d'aplicacions móbils* : learned about android more importants aspects.
   - Language : Java
   - More Important knowlege: AndroidLifeCycle, MVVM Design Pattern, Backend[*Python and MySql*].
   
 - **IAC**, *Innovació a les TIC* : subject were we workend on the START APP, on the bussines plan.
-
+  - Learned the workflow of a developement company, and essential factors when doing an STARTAPP.
+  
+- **SOFTWARE ENGINEERING** : worked on the software documentation from the app.
+  - Learned requiriement search, analisis, and treatement. Market domain, TAM SAM SOM. Sprints documentation.
+  -----  
+  
 ##### URBAND
 Urband is an android application used as a Match for musicians, musicians can find his best option without doing nothin, we do all the hard work
     
