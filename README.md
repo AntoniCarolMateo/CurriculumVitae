@@ -67,6 +67,8 @@ Projects were done in a group of 4 integrants.
   - Learned requiriement search, analisis, and treatement. Market domain, TAM SAM SOM. Sprints documentation.
   -----  
   
+ >If you want to understant more about the project and his stucture, I'll leave you a link to the oficial Universitat of Lleida documentatio, :   https://jordimateoudl.github.io/slides/reveal.js/index.html#/
+  
 ##### URBAND
 Urband is an android application used as a Match for musicians, musicians can find his best option without doing nothin, we do all the hard work
     
