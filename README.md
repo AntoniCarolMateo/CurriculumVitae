@@ -42,9 +42,9 @@ Working on my own projects in order to grow in expirience and knowledge.
 - Minimal Web programming knowlege
 
 ### Programming expirience
-Language  | ![JAVA](https://github.com/AntoniCarolMateo/CurriculumVitae/blob/master/img/java_icon.png)
- ----     |------------ 
-Expirience| 2 years
+Language  | ![JAVA](https://github.com/AntoniCarolMateo/CurriculumVitae/blob/master/img/java_icon.png)|![Python](https://github.com/AntoniCarolMateo/CurriculumVitae/blob/master/img/pyhon.png)
+ ----     |------------ | ---
+Expirience| 2 years | 1 year
   
 ---  
 
