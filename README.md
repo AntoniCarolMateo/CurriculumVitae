@@ -30,18 +30,21 @@ Working on my own projects in order to grow in expirience and knowledge.
 
 ## Job's world
 - Warehouse Logistic managment - 5 months duration
- - Stegotronix, C/França 20, Igualada(Barcelona)
- - September 2019 --> February 2020
+  - Stegotronix, C/França 20, Igualada(Barcelona)
+  - September 2019 --> February 2020
  ---
 
 ### Abilities
 
 - Database management.
-  - **Languages used** : Python, MySql
 - Android app developement.
-  - **Language used** : Java
-- Link backend and frontend.
-  - **Using Retrofit firebase server**
+- Minimal Web programming knowlege
+
+### Programming expirience
+
+   ------------ | -------------
+  
+  
 
 ### Research interests
 
