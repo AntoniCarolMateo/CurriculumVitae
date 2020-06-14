@@ -33,6 +33,9 @@ Working on my own projects in order to grow in expirience and knowledge.
   - Stegotronix, C/França 20, Igualada(Barcelona)
   - September 2019 --> February 2020
  ---
+ ### Research interests
+
+>Really interested in  the videogame sector, android developement, and database treatement
 
 ---
 ### Abilities
@@ -42,15 +45,11 @@ Working on my own projects in order to grow in expirience and knowledge.
 - Minimal Web programming knowlege
 
 ### Programming expirience
-Language  | ![JAVA](https://github.com/AntoniCarolMateo/CurriculumVitae/blob/master/img/java_icon.png)|![Python](https://github.com/AntoniCarolMateo/CurriculumVitae/blob/master/img/pyhon.png)| ![HTML](https://github.com/AntoniCarolMateo/CurriculumVitae/blob/master/img/html_css.png)
- ----     |------------ | --- | ---
-Expirience| 2 years | 1 year | 1 year
+Language  | ![JAVA](https://github.com/AntoniCarolMateo/CurriculumVitae/blob/master/img/java_icon.png)|![Python](https://github.com/AntoniCarolMateo/CurriculumVitae/blob/master/img/pyhon.png)| ![HTML](https://github.com/AntoniCarolMateo/CurriculumVitae/blob/master/img/html_css.png)| ![SQL](https://github.com/AntoniCarolMateo/CurriculumVitae/blob/master/img/sql_.png)
+ ----     |------------ | --- | --- | ---
+Expirience| 2 years | 1 year | 1 year | 1 year
   
 ---  
-
-### Research interests
-
->Really interested in  the videogame sector, android developement, and database treatement
 
 ## My work
 
