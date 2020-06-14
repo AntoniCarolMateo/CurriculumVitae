@@ -34,6 +34,7 @@ Working on my own projects in order to grow in expirience and knowledge.
   - September 2019 --> February 2020
  ---
 
+---
 ### Abilities
 
 - Database management.
@@ -41,10 +42,11 @@ Working on my own projects in order to grow in expirience and knowledge.
 - Minimal Web programming knowlege
 
 ### Programming expirience
-
-   ------------ | -------------
+Language  | ![JAVA](https://github.com/AntoniCarolMateo/CurriculumVitae/blob/master/img/java_icon.png)
+ ----     |------------ 
+Expirience| 2 years
   
-  
+---  
 
 ### Research interests
 
