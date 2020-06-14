@@ -56,16 +56,16 @@ Projects were done in a group of 4 integrants.
         >Requierements research, analysis, evolution and management. 
 
 ----
-- **Android**, *Desarrollament d'aplicacions móbils* : learned about android more importants aspects.
+- **Design of movile applications**, : learned about android more importants aspects.
   - Language : Java
   - More Important knowlege: AndroidLifeCycle, MVVM Design Pattern, Backend[*Python and MySql*].
   
-- **IAC**, *Innovació a les TIC* : subject were we workend on the START APP, on the bussines plan.
+- **ICT Innovation**: subject were we workend on the START APP, on the bussines plan.
   - Learned the workflow of a developement company, and essential factors when doing an STARTAPP.
   
-- **SOFTWARE ENGINEERING** : worked on the software documentation from the app.
+- **Software Engineering** : worked on the software documentation from the app.
   - Learned requiriement search, analisis, and treatement. Market domain, TAM SAM SOM. Sprints documentation.
-  -----  
+--------  
   
  >If you want to understant more about the project and his stucture, I'll leave you a link to the oficial Universitat of Lleida documentatio, :   https://jordimateoudl.github.io/slides/reveal.js/index.html#/
   
@@ -77,8 +77,6 @@ Urband is an android application used as a Match for musicians, musicians can fi
 
 ## Occupation
 
-`1600`
-__Royal Mint__, London
 
 <!-- ### Footer
 
