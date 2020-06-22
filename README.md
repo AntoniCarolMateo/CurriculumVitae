@@ -16,8 +16,9 @@
 
 ## Currently
 
-Studying GTIDIC, Grau en Técniques d'Interacció digital i Computació.
+Studying GTIDIC, <a href="http://www.grauinteraccioicomputacio.udl.cat/en/index.html">Degree in Digital Interaction and Computing Techniques</a>, starting over summer the 3rd year.
 Working on my own projects in order to grow in expirience and knowledge.
+
 
 ---
 ## Education
@@ -41,7 +42,7 @@ Working on my own projects in order to grow in expirience and knowledge.
 
 - Database management.
 - Android app developement.
-- Minimal Web programming knowlege
+- Minimal Web programming knowlege.
 
 ### Programming expirience
 Language  | ![JAVA](https://github.com/AntoniCarolMateo/CurriculumVitae/blob/master/img/java_icon.png)|![Python](https://github.com/AntoniCarolMateo/CurriculumVitae/blob/master/img/pyhon.png)| ![HTML](https://github.com/AntoniCarolMateo/CurriculumVitae/blob/master/img/html_css.png)| ![SQL](https://github.com/AntoniCarolMateo/CurriculumVitae/blob/master/img/sql_.png)
@@ -76,7 +77,7 @@ Projects were done in a group of 4 integrants.
 
 - **My part on the project** : 
   - Programmer, leaded by @imlmendez.
-  -  Participated in all documents, on charge of documents structure.
+  - Participated in all documents, on charge of documents structure.
   - Requierements research, analysis, evolution and management. 
 
   
