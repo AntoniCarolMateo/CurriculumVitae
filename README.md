@@ -25,7 +25,6 @@ Working on my own projects in order to grow in expirience and knowledge.
 ## Education
 - Technological bachelorship - Batxillerato Tecológico
   - 2017-2019 Institut Pere Vives Vich, 08700 Igualada(Barcelona)
-  <img align="right" src="https://github.com/AntoniCarolMateo/CurriculumVitae/blob/master/img/udl.jpg">
 - GTIDIC, Degree in Digital Interaction Tecniques and Computation. (3 years long)
   - Universitat de LLeida, Campus Igualada, 08700 Igualada(Barcelona)
   - 2 years of formation 
