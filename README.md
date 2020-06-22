@@ -58,6 +58,10 @@ In this section, you'll be able to take a look of what i've done in my 2 years o
 
 #### DESTACABLE PROJECTS
 
+__SQL AND JAVA, DATABASE MANAGEMENT DESTOP APP__ 
+
+Project connecting 
+
 __START APP, GTIDIC__    *https://github.com/AntoniCarolMateo/START_APP_GTIDIC*
 
 Project that integrated 3 univeristy subjects, the goal of the project was build and application to solve a problem, have a an Software Enginering documentation and treatement, and also apply this study case as if we were trying to create an START APP.
