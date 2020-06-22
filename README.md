@@ -35,11 +35,12 @@ Working on my own projects in order to grow in expirience and knowledge.
  ---
  ### Research interests
 
->Really interested in  the videogame sector, android developement, and database treatement
+>Really interested in  UX-Expirience, android developement, and database treatement
 
 ---
 ### Abilities
 
+- UX-Expirience
 - Database management.
 - Android app developement.
 - Minimal Web programming knowlege.
