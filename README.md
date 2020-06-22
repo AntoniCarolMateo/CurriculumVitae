@@ -25,8 +25,9 @@ Working on my own projects in order to grow in expirience and knowledge.
 - Technological bachelorship - Batxillerato Tecológico
   - 2017-2019 Institut Pere Vives Vich, 08700 Igualada(Barcelona)
   
-- GTIDIC, Degree in Digital Interaction Tecniques and Computation.
+- GTIDIC, Degree in Digital Interaction Tecniques and Computation. (3 years long)
   - Universitat de LLeida, Campus Igualada, 08700 Igualada(Barcelona)
+  - 2 years of formation 
 
 ## Job's world
 - Warehouse Logistic managment - 5 months duration
@@ -60,7 +61,9 @@ In this section, you'll be able to take a look of what i've done in my 2 years o
 
 __SQL AND JAVA, DATABASE MANAGEMENT DESTOP APP__ 
 
-Project connecting 
+Project connecting Postgres SQL server to Java to construct a management desktop app using as design tool Java Swing. Focused on Management of a database, insert, delete and see tables and objects.
+
+Repository for more info: 
 
 __START APP, GTIDIC__    *https://github.com/AntoniCarolMateo/START_APP_GTIDIC*
 
