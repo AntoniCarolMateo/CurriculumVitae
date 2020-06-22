@@ -1,6 +1,5 @@
 
 # Antoni Carol Mateo
-Backend developer, Frontend developer, code developer
 
 <div id="contact">
   <h5 contact with me via: </h5>
@@ -67,8 +66,9 @@ Projects were done in a group of 4 integrants.
   - Language : Java
   - More Important knowlege: AndroidLifeCycle, MVVM Design Pattern, Backend[*Python and MySql*].
   
-- **ICT Innovation**: subject were we workend on the START APP, on the bussines plan.
-  - Learned the workflow of a developement company, and essential factors when doing an STARTAPP.
+- **ICT Innovation**: working on the START APP, on the bussines plan, focusing on building the company.
+  - Learned the workflow of a developement company, and essential factors when doing an STARTAPP,
+    focused on an developement context.
   
 - **Software Engineering** : worked on the software documentation from the app.
   - Learned requiriement search, analisis, and treatement. Market domain, TAM SAM SOM. Sprints documentation.
@@ -80,7 +80,7 @@ Projects were done in a group of 4 integrants.
   - Requierements research, analysis, evolution and management. 
 
   
- >If you want to understant more about the project and his stucture, I'll leave you a link to the oficial Universitat of Lleida documentatio, :   https://jordimateoudl.github.io/slides/reveal.js/index.html#/
+ >If you want to understant more about the project and his stucture, I'll leave you a link to the oficial Universitat of Lleida documentation, :   https://jordimateoudl.github.io/slides/reveal.js/index.html#/
   
 ##### URBAND
 Urband is an android application used as a Match for musicians, musicians can find his best option without doing nothin, we do all the hard work
