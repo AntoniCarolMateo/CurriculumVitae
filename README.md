@@ -83,6 +83,8 @@ Projects were done in a group of 4 integrants.
   - Learned requiriement search, analisis, and treatement. Market domain, TAM SAM SOM. Sprints documentation.
 --------  
 
+>In all subjects, we focused our viewpoint on our potential users, learning habilities and diferent methods.
+
 - **My part on the project** : 
   - Programmer, leaded by @imlmendez.
   - Participated in all documents, on charge of documents structure.
