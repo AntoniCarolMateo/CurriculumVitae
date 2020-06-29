@@ -1,5 +1,5 @@
 
-<img align= "right" src= "https://github.com/AntoniCarolMateo/CurriculumVitae/blob/master/img/java_icon.png"> </img>
+<img align= "right" src= "https://github.com/AntoniCarolMateo/CurriculumVitae/blob/master/img/fotocurri.jpg"> </img>
 # Antoni Carol Mateo
 
 <div id="contact">
